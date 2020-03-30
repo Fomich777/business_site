@@ -115,7 +115,7 @@ header {
     line-height: 36px;
     border: 1px solid transparent;
     padding: 0px 16px;
-    transition: 0.5s;
+    transition: 0.4s;
 }
 
 .menu a:hover {
